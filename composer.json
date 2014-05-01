@@ -1,0 +1,21 @@
+{
+    "name": "inclusivedevelopment/inclusiveframework",
+    "require": {
+    	"php": ">=5.5.10",
+        "zendframework/zendframework1": ">=1.12.6",
+        "ezyang/htmlpurifier": ">=4.6.0",
+        "aws/aws-sdk-php": ">=2.6.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Inclusive_": "library/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shawn Ostler",
+            "email": "shawn@incdev.co"
+        }
+    ],
+    "version": "0.0.1"
+}
